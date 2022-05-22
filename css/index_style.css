@@ -1,0 +1,40 @@
+body{
+    background-color: #333;
+}
+
+.timerBtn{
+    width: 80px;
+    height: 30px;
+    border: 3px solid;
+    border-radius: 12px;
+    background-color: #333;
+    color: #fff;
+    cursor: pointer;
+    font-family: consolas, monospace;
+}
+
+#timeDisplay{
+
+    font-size: 3rem;
+    color: #40c437;
+    font-family: consolas, monospace;
+
+
+}
+
+#timeContainer{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    border: 3px solid;
+    border-radius: 25px;
+    background-color: #222;
+    box-shadow: 4px 4px 7px rgba(1, 1, 1, 1);
+    padding: 15px 0px;
+
+}
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
